@@ -1,7 +1,4 @@
 import { ArrowRightOutlined, FacebookFilled, FacebookOutlined, FileMarkdownOutlined, InstagramOutlined, LeftOutlined, LinkedinOutlined, RightOutlined, TwitterOutlined, XOutlined, YoutubeOutlined } from '@ant-design/icons'
-import { faFacebook, faInstagram, faLinkedin, faTwitter, faYoutube } from '@fortawesome/free-brands-svg-icons'
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { Button } from 'antd'
 import React from 'react'
 import 'aos/dist/aos.css';
 
